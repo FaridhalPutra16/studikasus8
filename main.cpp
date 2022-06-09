@@ -13,7 +13,7 @@ class kasus{
     void output();
 };
 
-//AGUNG 145
+//AGUNG taufiqurrahman 145
 void kasus::input(){
   cout<<" Masukkan Jumlah Jenis Buku : "; cin>>j_jenis;
   for(i=0; i<j_jenis; i++){
